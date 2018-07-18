@@ -1,0 +1,55 @@
+
+   
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    background-image: url("http://getwallpapers.com/wallpaper/full/0/8/c/391956.jpg");
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    padding-top: 235px;
+    color: #fcfff2;
+    font-size: 25px;
+}
+
+
+.button {
+    opacity: 0.7;
+    
+    
+   
+}
+
+
+#git {
+  margin-left: 65%;
+    
+}
+
+
+#link {
+  margin-left: 1%; 
+    
+}
+
+.page-footer { 
+    padding-bottom: 0;
+    padding: 11px 0px; 
+    padding-bottom: 0;
+    padding-top: 0%;
+}
+
+.icons {
+   padding-left: 46%;
+}
+
+
+
+
