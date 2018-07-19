@@ -18,8 +18,8 @@ $(document).ready(function() {
 
       $(function() {
         $("#icon4").click(function() {
-         $("#hide").fadeOut();
-         $("#fade").fadeOut();
-         $("#fade3").fadeToggle();
+   
+      
+         $("#fade3").fadeIn();
        });
      });
