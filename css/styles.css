@@ -14,7 +14,7 @@ main {
 p {
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
-    padding-top: 235px;
+    padding-top: 285px;
     color: #fcfff2;
     font-size: 25px;
 }
@@ -29,13 +29,13 @@ p {
 
 
 #git {
-  margin-left: 65%;
+  margin-left: 70%;
     
 }
 
 
 #link {
-  margin-left: 1%; 
+  margin-left: 2%; 
     
 }
 
@@ -47,9 +47,37 @@ p {
 }
 
 .icons {
-   padding-left: 46%;
+   padding-left: 44%;
 }
 
+#fade {
+display: none;
+}
 
+#fade2 {
+    display: none;
+}
 
+#fade3 {
+    display: none;
+    font-family: 'Courier New', Courier, monospace;
+    color: #fcfff2;
+    font-size: 5px !important;
+}
+
+#icon {
+    padding-right: 6%;
+}
+
+#icon2 {
+    padding-right: 6%;
+}
+
+#icon4 {
+    cursor: pointer;
+}
+
+#icon3 {
+    padding-right: 6%;
+}
 
